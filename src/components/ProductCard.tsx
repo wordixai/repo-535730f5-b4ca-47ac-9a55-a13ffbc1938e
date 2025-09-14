@@ -55,7 +55,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({
           icon={<ShoppingCartOutlined />}
           className="w-full"
         >
-          Add to Cart
+          Add to Ca101
         </Button>
       ]}
     >
